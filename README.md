@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since I wrote my first "Hello World"<br>📚 I'm currently learning Development<br>🎯 Goals: My goal is to become a Fullstack Developer and publish my own projects<br>🎲 Fun fact: Ich habe mehr Code gelöscht als geschrieben – und das ist okay 😅</p>
+<p align="center">✨ Creating bugs since I wrote my first "Hello World"<br>📚 I'm currently learning Development<br>🎯 Goals: My goal is to become a Fullstack Developer and publish my own projects<br>🎲 Fun fact: I deleted more code than I wrote – and that’s okay 😅</p>
 
 ###
 
