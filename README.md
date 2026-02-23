@@ -71,3 +71,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pipo-ops/Pipo-ops/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pipo-ops/Pipo-ops/output/pacman-contribution-graph.svg">
 </picture>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pipo-ops&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
