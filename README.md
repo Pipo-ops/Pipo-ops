@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I am Phillip👋</h1>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Schuster%20Phillip&fontAlign=50&animation=fadeIn&rotate=0&reversal=false&section=header"/>
 ###
 
 <p align="center">📌 I'm a software developer from Vienna.</p>
